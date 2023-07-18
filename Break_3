@@ -1,4 +1,4 @@
-public class break_3 {
+public class Break_3 {
 
 	public static void main(String[] args) {
 		// break statement for outer loop
