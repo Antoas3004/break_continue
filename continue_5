@@ -1,0 +1,17 @@
+public class continue_5 {
+
+	public static void main(String[] args) {
+
+		// continue in do while loop
+
+		int i = 1;
+		do {
+			if (i == 5) {
+				i++;
+				continue;
+			}
+			System.out.println(i);
+			i++;
+		} while (i < 10);
+	}
+}
